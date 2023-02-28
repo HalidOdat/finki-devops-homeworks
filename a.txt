@@ -1,1 +1,2 @@
 Contents of A File
+Another line
